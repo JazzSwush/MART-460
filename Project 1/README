@@ -20,5 +20,7 @@ objective is on screen. Another limitation would add a timer. I initially wanted
 and see how long the player could last, but I could not figure out how to add a timer that I could remember. 
 I instead made it a point system. This also made me rework the game on the difficulty level. 
 I found tweaking the speed on Unity and playing it on itch.io is completely different as well. 
-I had to keep reuploading, so it was good enough speed. Is there a way to work around this please let me know. 
+I had to keep reuploading, so it was good enough speed. Is there a way to work around this please let me know.
+If I had more time, one thing I would try to add is a loading scene and another scene where the player
+could decide to play again or not. Just add other elements like buttons and such to have a start and end system.
 Overall, I enjoyed going back and relearning how to use Unity with the help of playground assets. 

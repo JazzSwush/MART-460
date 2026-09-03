@@ -1,0 +1,24 @@
+Link to game: https://jazzswush.itch.io/project-1-dodge-for-your-life
+
+For this project I wanted to create something simple and like my Creative Coding 2 class 
+assignment. Though I had to review Unity since I went on summer break and never had a 
+chance to work on any Unity projects. So, I was rusty again and had to relearn, but once I 
+started playing around with playground in Unity, it slowly came back to me on things that I 
+could remember more. I did not use any if/statements since this game was very simple. I 
+made a space game where you dodge asteroids and aliens. The player must collect 5 total 
+stars to win the game before they lose all their health. I also added some hearts to help 
+achieve their goal. I kind of made it hard to make it challenging to test the coordination of 
+player movement. I found that there were a lot of inconsistencies when it comes to player 
+movements even after changing different values in speed, friction or mass. So, hopefully in 
+itch.io it is not too fast or slow for player movements. I find working in space a bit hard 
+when you add the playground UI system because it kind of takes part of the screen and not 
+sure if I moved it, that it would ruin the screen placement in the game. I did find some 
+limitations to playgrounds like bounding barriers, well at least I could not find it in the 
+inspector area. I tried a different method, but the asteroids and aliens became a limitation too. 
+So, I just scratched that idea, and hope players just stay in the camera view as their main 
+objective is on screen. Another limitation would add a timer. I initially wanted it to be timed 
+and see how long the player could last, but I could not figure out how to add a timer that I could remember. 
+I instead made it a point system. This also made me rework the game on the difficulty level. 
+I found tweaking the speed on Unity and playing it on itch.io is completely different as well. 
+I had to keep reuploading, so it was good enough speed. Is there a way to work around this please let me know. 
+Overall, I enjoyed going back and relearning how to use Unity with the help of playground assets. 

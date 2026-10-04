@@ -1,0 +1,7 @@
+# Ninja Frog Jump
+
+## A short pixel platform game
+- My design goal was to capture a simple jump platformer game that has a bit of pixel art into it. I used assets from the Unity store, so I did not make any of the sprites, backgrounds, and other assets besides the UI. In the game there are player movements, where the player can move and jump to land on platforms, dodge enemies and trying not to land in spikes. I found an asset that provided the background so I could add depth to the game. I added jump pads for an interactive element for players to use to jump to other platforms. I have collectable fruits, later I will add a counter for the fruits to show on the UI. There are patrolling enemies, once interacted it is game over. To win, you reach the end of the map and claim your trophy. 
+- I leanred how to incorporate the jump pads by trial and error from the tutorials that led me up to this point. I am slowly understanding about ray casting on different things for detection. I am understanding more about the animation and animator tabs that help simulate the animation played in the game. Even just adding the animation to the code, I was able to figure out. I learned that tags are very inportant especially when making code and trying to incorporate different objects to the scene. Tags help a lot to manuever these things and also help organize the game.
+
+- Link to game: https://jazzswush.itch.io/ninja-frog-jump

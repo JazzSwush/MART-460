@@ -1,0 +1,9 @@
+# Reflection
+
+- My design goal was to make another level for this game for it to be a proper platform, while adding more behaviors to the level and creating more interaction.
+- I only was able to create one AI behvior enemy stat which is a patrolling mechanic. Basically, the enemy waits for a second and then goes to the first way point that is in the system and then waits one second again and then goes to the next way point. Thene it does that on repeat. I added way points by creating an empty so that it doesn't show on screen.
+- I was not sure what you meant for dialogue tree and was trying to find more about it, but I hope it was from the code you sent and how the dialogue is played out. I only had one NPC talking and their isn't any responses back from the NPC. It is more like the NPC is talking to the player and giving advice along the way. 
+- Basically, I copied and pasted my first scene and was able to create the second scene off of the assets I already had from the first scene and just remade a whole new scene and creating different interactions with that scene. Data was basically crossed over and recreated in a different way.
+- I did some testing and everything worked, everything was functional. There is one thing I would want to change or do something about, is my platform when the player hits the edge of the corner. It just feels a bit awkward and has an interesting reaction when players hit the corners of the platform.
+- I used an asset from the store called 2D pixel platformer and used all the characters and tilemaps in that pack. For the background, I used a 2D pixel adventure pack so that the background is no longer just a solid color and have a paralaxing environment. The only thing I have made is the poorly designed UI for when the player dies or wins and the dialogue for the NPC. The lose and win rate UI is just a placeholder, until I decide to actually make it look nicer.
+
